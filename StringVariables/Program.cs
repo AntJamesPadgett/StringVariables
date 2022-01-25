@@ -6,7 +6,7 @@ string lastName = string.Empty;
 string filePath = string.Empty;
 
 // If its one name.. still small casing
-//Declaration//
+//Declaration///
 firstName = "Tony";
 lastName = "Padgett";
 //filePath = "C:\\temp\\demo";
